@@ -1,0 +1,20 @@
+# Compiled Java files
+*.class
+
+# Maven build folder (if present)
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
